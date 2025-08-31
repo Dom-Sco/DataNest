@@ -1,1 +1,1 @@
-This folder is for the water source data. The data is too large to upload. email me at dom.scocchera@gmail.com if you want access to it
+This folder is for the water source data. The data is too large to upload, you can find it here https://www.kaggle.com/datasets/dominic568/govhack-data-centre-challenge-data?select=population
